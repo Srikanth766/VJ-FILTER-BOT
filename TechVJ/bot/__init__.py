@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
+# Don't Remove Credit ROYALBOMMA
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram @ROYALBOMMA143
 
 import logging
 import logging.config
